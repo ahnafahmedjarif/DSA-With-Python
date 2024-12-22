@@ -9,7 +9,7 @@ A collection of essential data structures and algorithms implemented in Python, 
 
 
 ## 🚀 About Me
-Hello, I'm Ahnaf Ahmed, a 10th grade student who aims to become a python developer. I am interested in algorithms, data structures, and problem-solving, which helps me study more efficiently
+Hello, I'm Ahnaf Ahmed, a 10th grade student who aims to become a python developer. I am interested in algorithms, data structures, and problem-solving, which helps me study more efficiently.
 
 
 ## 🔗 Links
